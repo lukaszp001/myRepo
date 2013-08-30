@@ -1,5 +1,8 @@
 #include<stdio.h>
-
+aaaa
+aaa
+aaaa
+bbb
 int main(void){
   //print
   printf("hello world\n");
